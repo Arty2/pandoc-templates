@@ -5,7 +5,7 @@ Draft but usable templates for [pandoc](http://pandoc.org/) with proper support 
 
 ## to-do
 
-- [ ] strip down to essential
+- [ ] strip down to essential packages
 - [ ] create image & PDF previews
 
 
